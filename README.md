@@ -1,4 +1,8 @@
-## Hi there 👋
+## I am sazuela2!
+
+I work with MetaTrader5 and python to build technical analysis trading bots. 
+
+I am also working on AI apps. I specialize in B2B, RAG (Retrieval-Augmented-Generation) solutions. 
 
 <!--
 **sazuela2/sazuela2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
